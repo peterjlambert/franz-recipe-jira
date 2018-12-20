@@ -1,0 +1,12 @@
+{
+  "id": "jira",
+  "name": "Jira",
+  "version": "1.0.0",
+  "description": "Jira",
+  "main": "index.js",
+  "author": "Pete Lambert <pete@petelambert.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://[companyName].atlassian.net/secure/Dashboard.jspa"
+  }
+}
